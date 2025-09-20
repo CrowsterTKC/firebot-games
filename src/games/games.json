@@ -1,0 +1,6 @@
+{
+  "password": {
+    "download_path": "https://github.com/CrowsterTKC/firebot-games/releases/download/v{version}/password.js",
+    "version": "1.0.0"
+  }
+}
